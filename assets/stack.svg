@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="242" viewBox="0 0 1200 242" role="img" aria-label="Tech Arsenal: Python, Kotlin, Rust, C / C++, Bash, Jetpack Compose, Ollama, llama.cpp, PyTorch, ROCm, AOSP, Magisk, FastAPI, SQLite, Docker, Arch Linux, systemd, GitHub Actions">
+  <title>Tech Arsenal</title>
+
+  <defs>
+    <linearGradient id="acck" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="55%" stop-color="#7c4dff"/>
+      <stop offset="100%" stop-color="#00ffa3"/>
+    </linearGradient>
+    <linearGradient id="surfk" x1="0" y1="0" x2="0.35" y2="1">
+      <stop offset="0%" stop-color="#0b1020"/>
+      <stop offset="100%" stop-color="#05070d"/>
+    </linearGradient>
+    <radialGradient id="blobk" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob2k" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c4dff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#7c4dff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blob3k" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00ffa3" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#00ffa3" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="gridk" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#1b2440" stroke-width="1" stroke-opacity="0.55"/>
+    </pattern>
+    <filter id="softk" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+    <filter id="glowk" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="3.2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="framek"><rect width="1200" height="242" rx="16"/></clipPath>
+  </defs>
+  <defs>
+    <linearGradient id="cgk" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#7c4dff" stop-opacity="0.85"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .cl{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:13.5px;font-weight:600;fill:#e8edf7;dominant-baseline:middle}
+    .hd{font-family:system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;font-size:17px;font-weight:700;fill:url(#acck)}
+    .sub{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'DejaVu Sans Mono',monospace;font-size:9.5px;fill:#8b97b0;letter-spacing:1.6px}
+    @keyframes pop{from{opacity:0;transform:translateY(12px) scale(.94)}to{opacity:1;transform:none}}
+    @keyframes breathe{0%,100%{opacity:1}50%{opacity:.74}}
+    .ch0{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.12s both,breathe 4.6s ease-in-out 1.02s infinite}.ch1{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.18s both,breathe 4.6s ease-in-out 1.08s infinite}.ch2{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.24s both,breathe 4.6s ease-in-out 1.14s infinite}.ch3{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.30s both,breathe 4.6s ease-in-out 1.20s infinite}.ch4{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.36s both,breathe 4.6s ease-in-out 1.26s infinite}.ch5{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.42s both,breathe 4.6s ease-in-out 1.32s infinite}.ch6{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.48s both,breathe 4.6s ease-in-out 1.38s infinite}.ch7{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.54s both,breathe 4.6s ease-in-out 1.44s infinite}.ch8{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.60s both,breathe 4.6s ease-in-out 1.50s infinite}.ch9{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.66s both,breathe 4.6s ease-in-out 1.56s infinite}.ch10{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.72s both,breathe 4.6s ease-in-out 1.62s infinite}.ch11{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.78s both,breathe 4.6s ease-in-out 1.68s infinite}.ch12{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.84s both,breathe 4.6s ease-in-out 1.74s infinite}.ch13{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.90s both,breathe 4.6s ease-in-out 1.80s infinite}.ch14{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 0.96s both,breathe 4.6s ease-in-out 1.86s infinite}.ch15{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 1.02s both,breathe 4.6s ease-in-out 1.92s infinite}.ch16{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 1.08s both,breathe 4.6s ease-in-out 1.98s infinite}.ch17{opacity:0;animation:pop .6s cubic-bezier(.2,.9,.2,1) 1.14s both,breathe 4.6s ease-in-out 2.04s infinite}
+
+    .b1{animation:d1 19s ease-in-out infinite}
+    .b2{animation:d2 23s ease-in-out infinite}
+    .b3{animation:d3 27s ease-in-out infinite}
+    @keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(70px,26px)}}
+    @keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-80px,-30px)}}
+    @keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,34px)}}
+
+    @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important;transform:none!important}}
+  </style>
+  <g clip-path="url(#framek)">
+    <rect width="1200" height="242" fill="url(#surfk)"/>
+
+  <g filter="url(#softk)" opacity="0.95">
+    <circle class="b1" cx="216" cy="72" r="150" fill="url(#blobk)"/>
+    <circle class="b2" cx="888" cy="164" r="159" fill="url(#blob2k)"/>
+    <circle class="b3" cx="576" cy="29" r="121" fill="url(#blob3k)"/>
+  </g>
+    <rect width="1200" height="242" fill="url(#gridk)" opacity="0.26"/>
+    <text class="hd" x="46" y="32">Tech Arsenal</text>
+    <text class="sub" x="46" y="50">LANGUAGES · RUNTIMES · TOOLING</text>
+    <line x1="46" y1="48" x2="1154" y2="48" stroke="#1b2440" stroke-width="1"/>
+
+    <g class="ch0">
+      <rect x="285.6" y="62" width="86.4" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="285.6" y="62" width="86.4" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="328.8" y="85.0" text-anchor="middle" class="cl">Python</text>
+    </g>
+    <g class="ch1">
+      <rect x="384.0" y="62" width="86.4" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="384.0" y="62" width="86.4" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="427.2" y="85.0" text-anchor="middle" class="cl">Kotlin</text>
+    </g>
+    <g class="ch2">
+      <rect x="482.4" y="62" width="69.6" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="482.4" y="62" width="69.6" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="517.2" y="85.0" text-anchor="middle" class="cl">Rust</text>
+    </g>
+    <g class="ch3">
+      <rect x="564.0" y="62" width="94.8" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="564.0" y="62" width="94.8" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="611.4" y="85.0" text-anchor="middle" class="cl">C / C++</text>
+    </g>
+    <g class="ch4">
+      <rect x="670.8" y="62" width="69.6" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="670.8" y="62" width="69.6" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="705.6" y="85.0" text-anchor="middle" class="cl">Bash</text>
+    </g>
+    <g class="ch5">
+      <rect x="752.4" y="62" width="162.0" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="752.4" y="62" width="162.0" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="833.4" y="85.0" text-anchor="middle" class="cl">Jetpack Compose</text>
+    </g>
+    <g class="ch6">
+      <rect x="310.8" y="118" width="86.4" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="310.8" y="118" width="86.4" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="354.0" y="141.0" text-anchor="middle" class="cl">Ollama</text>
+    </g>
+    <g class="ch7">
+      <rect x="409.2" y="118" width="111.6" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="409.2" y="118" width="111.6" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="465.0" y="141.0" text-anchor="middle" class="cl">llama.cpp</text>
+    </g>
+    <g class="ch8">
+      <rect x="532.8" y="118" width="94.8" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="532.8" y="118" width="94.8" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="580.2" y="141.0" text-anchor="middle" class="cl">PyTorch</text>
+    </g>
+    <g class="ch9">
+      <rect x="639.6" y="118" width="69.6" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="639.6" y="118" width="69.6" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="674.4" y="141.0" text-anchor="middle" class="cl">ROCm</text>
+    </g>
+    <g class="ch10">
+      <rect x="721.2" y="118" width="69.6" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="721.2" y="118" width="69.6" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="756.0" y="141.0" text-anchor="middle" class="cl">AOSP</text>
+    </g>
+    <g class="ch11">
+      <rect x="802.8" y="118" width="86.4" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="802.8" y="118" width="86.4" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="846.0" y="141.0" text-anchor="middle" class="cl">Magisk</text>
+    </g>
+    <g class="ch12">
+      <rect x="252.0" y="174" width="94.8" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="252.0" y="174" width="94.8" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="299.4" y="197.0" text-anchor="middle" class="cl">FastAPI</text>
+    </g>
+    <g class="ch13">
+      <rect x="358.8" y="174" width="86.4" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="358.8" y="174" width="86.4" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="402.0" y="197.0" text-anchor="middle" class="cl">SQLite</text>
+    </g>
+    <g class="ch14">
+      <rect x="457.2" y="174" width="86.4" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="457.2" y="174" width="86.4" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="500.4" y="197.0" text-anchor="middle" class="cl">Docker</text>
+    </g>
+    <g class="ch15">
+      <rect x="555.6" y="174" width="120.0" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="555.6" y="174" width="120.0" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="615.6" y="197.0" text-anchor="middle" class="cl">Arch Linux</text>
+    </g>
+    <g class="ch16">
+      <rect x="687.6" y="174" width="94.8" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="687.6" y="174" width="94.8" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="735.0" y="197.0" text-anchor="middle" class="cl">systemd</text>
+    </g>
+    <g class="ch17">
+      <rect x="794.4" y="174" width="153.6" height="44" rx="10" fill="#0b1020"
+            stroke="url(#cgk)" stroke-width="1.4"/>
+      <rect x="794.4" y="174" width="153.6" height="44" rx="10" fill="url(#acck)" opacity="0.10"/>
+      <text x="871.2" y="197.0" text-anchor="middle" class="cl">GitHub Actions</text>
+    </g>
+    <rect width="1200" height="242" rx="16" fill="none" stroke="#00e5ff" stroke-opacity="0.26" stroke-width="1.5"/>
+  </g>
+</svg>
